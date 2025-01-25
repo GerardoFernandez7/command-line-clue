@@ -11,6 +11,7 @@
 - [ ] Silver Watch
 - [ ] Antique Compass
 - [x] Kitchen Knife
+- [x] Brass Bell
 
 ## Notes
 *Use this space to record your findings and deductions...*
