@@ -4,6 +4,7 @@
 - [ ] The Gardener
 - [ ] The Baker
 - [ ] The Artist
+- [x] The Innkeeper
 
 ## Weapons
 - [x] Steel Ruler
