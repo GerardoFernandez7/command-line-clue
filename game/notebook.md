@@ -27,4 +27,10 @@ Remember that you can use multiple '../' to go up multiple levels:
 - 'cd ../..' goes up two levels
 - and so on...
 
-Location of the crime is still unknown - the room must have been empty when it happened...
+2. Investigation Conclusion:
+
+Your investigation has led you to the truth - this empty room is where it all happened!
+
+Your careful detective work has paid off. The empty state of this room matches 
+witness accounts - no one was around when the crime occurred. This must be 
+where the murderer carried out their plan!
