@@ -9,6 +9,7 @@
 - [ ] Steel Ruler
 - [ ] Silver Watch
 - [ ] Antique Compass
+- [x] Kitchen Knife
 
 ## Notes
 *Use this space to record your findings and deductions...*
