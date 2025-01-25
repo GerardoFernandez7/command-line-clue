@@ -6,7 +6,8 @@
 - [ ] The Artist
 
 ## Weapons
-- [ ] Steel Ruler
+- [x] Steel Ruler
+- [x] Walking Stick
 - [ ] Silver Watch
 - [ ] Antique Compass
 - [x] Kitchen Knife
